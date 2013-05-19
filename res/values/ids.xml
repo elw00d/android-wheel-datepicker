@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <item name="wheelDay" type="id"/>
+   <item name="wheelMonth" type="id"/>
+   <item name="wheelYear" type="id"/><item name="datepicker" type="id"/>
+</resources>
